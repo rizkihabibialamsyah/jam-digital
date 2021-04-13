@@ -1,0 +1,1 @@
+void show(int dig, int num);
